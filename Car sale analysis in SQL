@@ -33,7 +33,7 @@ FROM top_sales
 WHERE rnk <= 10
 
 
--- how many models does each manufacture produce in this dataset? --
+-- How many models does each manufacturer produce in this dataset? --
 
 SELECT  manufacturer, Count(model) as no_models
 FROM car_sales 
@@ -191,7 +191,7 @@ FROM car_sales
 ORDER BY latest_launch DESC
 
 
---top 10 vehicles with highest depreciation rate --
+--top 10 vehicles with the highest depreciation rate --
 
 WITH highest_depreciation AS (
 SELECT manufacturer, model,CAST(price_in_thousands - year_resale_value AS decimal (10,3)) AS resale_difference,
@@ -204,7 +204,7 @@ SELECT manufacturer, model, resale_difference
 FROM highest_depreciation
 WHERE rnk <=10
 
---top 10 vehicles with lowest depreciation rate --
+--top 10 vehicles with the lowest depreciation rate --
 
 
 WITH lowest_depreciation AS (
