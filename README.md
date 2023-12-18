@@ -1,3 +1,6 @@
+
+
+
 Hi!
 
-This repository houses SQL code that I use in projects in which I practice my SQL knowledge.
+This repository houses a collection of SQL code utilized in diverse projects dedicated to practicing my SQL skills.
