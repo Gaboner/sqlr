@@ -1,4 +1,3 @@
-Gabriel’s future portfolio.
 
 Hi!
 
