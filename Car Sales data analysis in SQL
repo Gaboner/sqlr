@@ -79,6 +79,8 @@ Group by vehicle_type
 
 
 --highest model depreciation--
+
+
 WITH depreciation AS (
     SELECT
         manufacturer, model,
@@ -103,6 +105,8 @@ From
 
 
 -- lowest depreciation rate --
+
+
 WITH depreciation AS (
     SELECT
         manufacturer, model,
