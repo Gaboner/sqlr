@@ -9,11 +9,12 @@
 ## Projects:
 ##  Car Sales EDA : 
 ## [SQLCode](https://github.com/Gaboner/sqlr/blob/main/Carsales%20EDA/carsalesEDA.sql) ---     [Tableau-Visualizations](https://github.com/Gaboner/sqlr/tree/main/Car%20Sales%20visualizations)
-####  Goal: Understand data structure, generate descriptive statistics, visualize trends and patterns, gain insights.
+####  Goal: Understand data structure, generate descriptive statistics, visualize trends and patterns, and gain insights.
 
 ## Pizza Restaurant EDA : 
 ## [SQLCode](https://github.com/Gaboner/sqlr/blob/main/pizza%20restaurant%20EDA/pizza2.sql) --- [Visualizations](https://github.com/Gaboner/sqlr/tree/main/Pizza%20Restaurant%20Visualizations)
-#### Goal: Understand sales distribution, identify seasonal trends, analyze sales patterns.
+#### Goal: Understand sales distribution, identify seasonal trends, and analyze sales patterns.
 
 ## IMDB data cleaning :
 ## [SQLCode](https://github.com/Gaboner/sqlr/blob/main/IMDB%20data%20cleaning%20code/imdbclean.sql)
+#### Goal: Handling incomplete data, dealing with inconsistent data, and standardizing.
