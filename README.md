@@ -14,3 +14,6 @@
 ## Pizza Restaurant EDA : 
 ## [SQLCode](https://github.com/Gaboner/sqlr/blob/main/pizza%20restaurant%20EDA/pizza2.sql) --- [Visualizations](https://github.com/Gaboner/sqlr/tree/main/Pizza%20Restaurant%20Visualizations)
 #### Goal: Understand sales distribution, identify seasonal trends, analyze sales patterns.
+
+## IMDB data cleaning :
+## [SQLCode](https://github.com/Gaboner/sqlr/blob/main/IMDB%20data%20cleaning%20code/imdbclean.sql)
