@@ -7,10 +7,11 @@
 #### Certifications: [Google Data Analytics](https://www.coursera.org/account/accomplishments/professional-cert/K4RQQ5KG7VZR), [Datacamp Data Analyst Associate Certificate](https://www.datacamp.com/certificate/DAA0012636534715)
 # Table of contents
 ## Projects:
+
 ## 1. Car Sales EDA : 
 ## [SQLCode](https://github.com/Gaboner/sqlr/blob/main/Carsales%20EDA/carsalesEDA.sql) ---     [Visualizations](https://github.com/Gaboner/sqlr/tree/main/Car%20Sales%20visualizations)
 ####  Goal: Understand data structure, generate descriptive statistics, visualize trends and patterns, and gain insights.
-
+[Top manufacturers by sales](https://public.tableau.com/app/profile/gabriel.burlacu/viz/Top10vehiclemanufacturersbysalenumber/Dashboard1), [Highest depreciation rate vehicles](https://public.tableau.com/app/profile/gabriel.burlacu/viz/Modelswithhighestdepreciationrate/Dashboard1), [Lowest depreciation rate vehicles](https://public.tableau.com/app/profile/gabriel.burlacu/viz/Modelswithlowestdepreciationrate/Sheet1), [Vehicle model distribution](https://public.tableau.com/app/profile/gabriel.burlacu/viz/Modeldistribution/Dashboard1)
 ## 2. Pizza Restaurant EDA : 
 ## [SQLCode](https://github.com/Gaboner/sqlr/blob/main/pizza%20restaurant%20EDA/pizza2.sql) --- [Visualizations](https://github.com/Gaboner/sqlr/tree/main/Pizza%20Restaurant%20Visualizations)
 #### Goal: Understand sales distribution, identify seasonal trends, and analyze sales patterns.
