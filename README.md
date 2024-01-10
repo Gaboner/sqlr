@@ -12,8 +12,10 @@
 ## [SQLCode](https://github.com/Gaboner/sqlr/blob/main/Carsales%20EDA/carsalesEDA.sql) ---     [Visualizations](https://github.com/Gaboner/sqlr/tree/main/Car%20Sales%20visualizations)
 ####  Goal: Understand data structure, generate descriptive statistics, visualize trends and patterns, and gain insights.
 [Top manufacturers by sales](https://public.tableau.com/app/profile/gabriel.burlacu/viz/Top10vehiclemanufacturersbysalenumber/Dashboard1), [Highest depreciation rate vehicles](https://public.tableau.com/app/profile/gabriel.burlacu/viz/Modelswithhighestdepreciationrate/Dashboard1), [Lowest depreciation rate vehicles](https://public.tableau.com/app/profile/gabriel.burlacu/viz/Modelswithlowestdepreciationrate/Sheet1), [Vehicle model distribution](https://public.tableau.com/app/profile/gabriel.burlacu/viz/Modeldistribution/Dashboard1)
+
 ## 2. Pizza Restaurant EDA : 
 ## [SQLCode](https://github.com/Gaboner/sqlr/blob/main/pizza%20restaurant%20EDA/pizza2.sql) --- [Visualizations](https://github.com/Gaboner/sqlr/tree/main/Pizza%20Restaurant%20Visualizations)
+[Most profitable products](https://public.tableau.com/app/profile/gabriel.burlacu/viz/pizzaswithhighestgeneratedrevenue/Dashboard1),[Least profitable products](https://public.tableau.com/app/profile/gabriel.burlacu/viz/lowestgeneratedrevenue/Sheet1), [Most sold products](https://public.tableau.com/app/profile/gabriel.burlacu/viz/MostSoldPizzas/Dashboard1), [Order distribution per hour](https://public.tableau.com/app/profile/gabriel.burlacu/viz/totalordersperhour/Dashboard1),.
 #### Goal: Understand sales distribution, identify seasonal trends, and analyze sales patterns.
 
 ## 3. Bakery sales EDA:
