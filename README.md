@@ -8,7 +8,7 @@
 # Table of contents
 ## Projects:
 ## 1. Car Sales EDA : 
-## [SQLCode](https://github.com/Gaboner/sqlr/blob/main/Carsales%20EDA/carsalesEDA.sql) ---     [Tableau-Visualizations](https://github.com/Gaboner/sqlr/tree/main/Car%20Sales%20visualizations)
+## [SQLCode](https://github.com/Gaboner/sqlr/blob/main/Carsales%20EDA/carsalesEDA.sql) ---     [Visualizations](https://github.com/Gaboner/sqlr/tree/main/Car%20Sales%20visualizations)
 ####  Goal: Understand data structure, generate descriptive statistics, visualize trends and patterns, and gain insights.
 
 ## 2. Pizza Restaurant EDA : 
