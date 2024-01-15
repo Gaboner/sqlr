@@ -31,5 +31,5 @@
 
 
 ## 4. IMDB data cleaning :
-## [SQLCode](https://github.com/Gaboner/sqlr/blob/main/IMDB%20data%20cleaning%20code/imdbclean.sql)
 #### Goal: Handling incomplete data, dealing with inconsistent data, and standardizing.
+## [SQLCode](https://github.com/Gaboner/sqlr/blob/main/IMDB%20data%20cleaning%20code/imdbclean.sql)
