@@ -10,16 +10,18 @@
 
 
 ## 1. Bakery sales EDA:
-## [SQLCode](https://github.com/Gaboner/sqlr/blob/main/Bakery%20sales%20EDA/bakery.sql)  
-[Revenue Dashboard](https://public.tableau.com/app/profile/gabriel.burlacu/viz/Revenuedistributionovertime/Dashboard1), [Transactions Dashboard](https://public.tableau.com/app/profile/gabriel.burlacu/viz/Transactionspermonthdayhour/Dashboard2), [Revenue Dashboard 2](https://public.tableau.com/app/profile/gabriel.burlacu/viz/Bakerysalesdistribution/Dashboard1), [Revenue Distribution](https://public.tableau.com/app/profile/gabriel.burlacu/viz/Revenuedistributionofproducts/Sheet3)
 #### Goal: Understand sales distribution, identify seasonal trends, and analyze sales patterns.
+## [SQLCode](https://github.com/Gaboner/sqlr/blob/main/Bakery%20sales%20EDA/bakery.sql)  
+#### Dashboards
+[Revenue Dashboard](https://public.tableau.com/app/profile/gabriel.burlacu/viz/Revenuedistributionovertime/Dashboard1), [Transactions Dashboard](https://public.tableau.com/app/profile/gabriel.burlacu/viz/Transactionspermonthdayhour/Dashboard2), [Revenue Dashboard 2](https://public.tableau.com/app/profile/gabriel.burlacu/viz/Bakerysalesdistribution/Dashboard1), [Revenue Distribution](https://public.tableau.com/app/profile/gabriel.burlacu/viz/Revenuedistributionofproducts/Sheet3)
 
 
 
 ## 2. Pizza Restaurant EDA : 
-## [SQLCode](https://github.com/Gaboner/sqlr/blob/main/pizza%20restaurant%20EDA/pizza2.sql) --- [Visualizations](https://github.com/Gaboner/sqlr/tree/main/Pizza%20Restaurant%20Visualizations)
-[Most profitable products](https://public.tableau.com/app/profile/gabriel.burlacu/viz/pizzaswithhighestgeneratedrevenue/Dashboard1),[Least profitable products](https://public.tableau.com/app/profile/gabriel.burlacu/viz/lowestgeneratedrevenue/Sheet1), [Most sold products](https://public.tableau.com/app/profile/gabriel.burlacu/viz/MostSoldPizzas/Dashboard1), [Order distribution per hour](https://public.tableau.com/app/profile/gabriel.burlacu/viz/totalordersperhour/Dashboard1),.
 #### Goal: Understand sales distribution, identify seasonal trends, and analyze sales patterns.
+## [SQLCode](https://github.com/Gaboner/sqlr/blob/main/pizza%20restaurant%20EDA/pizza2.sql) 
+#### Dashboards
+[Revenue Distribution](https://public.tableau.com/app/profile/gabriel.burlacu/viz/Revenue-orderdistribution/Dashboard1), [Most-least profitable items](https://public.tableau.com/app/profile/gabriel.burlacu/viz/Highest-lowestgeneratedrevenue/Dashboard1), [Order Distribution](https://public.tableau.com/app/profile/gabriel.burlacu/viz/MostSold_17053316562350/Dashboard1), [Other Visualizations](https://github.com/Gaboner/sqlr/tree/main/Pizza%20Restaurant%20Visualizations)
 
 
 ## 3. Car Sales EDA : 
