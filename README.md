@@ -25,8 +25,8 @@
 
 
 ## 3. Car Sales EDA : 
-## [SQLCode](https://github.com/Gaboner/sqlr/blob/main/Carsales%20EDA/carsalesEDA.sql) ---   [Visualizations](https://github.com/Gaboner/sqlr/tree/main/Car%20Sales%20visualizations)
 ####  Goal: Understand data structure, generate descriptive statistics, visualize trends and patterns, and gain insights.
+## [SQLCode](https://github.com/Gaboner/sqlr/blob/main/Carsales%20EDA/carsalesEDA.sql) ---   [Visualizations](https://github.com/Gaboner/sqlr/tree/main/Car%20Sales%20visualizations)
 [Top manufacturers by sales](https://public.tableau.com/app/profile/gabriel.burlacu/viz/Top10vehiclemanufacturersbysalenumber/Dashboard1), [Highest depreciation rate vehicles](https://public.tableau.com/app/profile/gabriel.burlacu/viz/Modelswithhighestdepreciationrate/Dashboard1), [Lowest depreciation rate vehicles](https://public.tableau.com/app/profile/gabriel.burlacu/viz/Modelswithlowestdepreciationrate/Sheet1), [Vehicle model distribution](https://public.tableau.com/app/profile/gabriel.burlacu/viz/Modeldistribution/Dashboard1)
 
 
