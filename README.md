@@ -28,5 +28,5 @@
 
 ### 3. IMDB data cleaning:
 ##### In this project, I was addressing incomplete data, managing inconsistent data, and standardizing data. SQL was the primary tool used for the project.
-## [SQLCode](https://github.com/Gaboner/sqlr/blob/main/IMDB%20data%20cleaning%20code/imdbclean.sql)
+#### [SQLCode](https://github.com/Gaboner/sqlr/blob/main/IMDB%20data%20cleaning%20code/imdbclean.sql)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
