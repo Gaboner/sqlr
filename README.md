@@ -10,26 +10,21 @@
 
 
 ### 1. Bakery sales EDA:
-##### In this project, I am conducting data exploration and analysis to identify the most profitable and most sold items, along with revenue over time (quarter, month, day, and hour) to better understand sales distribution. Further, I explore the order frequency to identify the busiest time in the shop. Stakeholders may use the information to improve the shop's efficiency with superior stock and staff management.      Tools used include SQL and Tableau. I have performed table alteration queries, aggregation, data type converting, date formatting and used CTE's.
-## [SQLCode can be found here.](https://github.com/Gaboner/sqlr/blob/main/Bakery%20sales%20EDA/bakery.sql)
+##### In this project, my focus revolves around thorough data exploration and analysis with the primary objective of identifying the most profitable and top-selling items. Additionally, I aim to unveil revenue trends over distinct time intervals such as quarters, months, days, and hours, providing a comprehensive understanding of sales distribution patterns. To gain deeper insights, I explore order frequency, aiming to pinpoint the peak operational periods within the shop. This analysis serves as a valuable resource for stakeholders, offering actionable insights to enhance overall shop efficiency through optimal stock and staff management strategies. Tools used include SQL and Tableau. I have performed table alteration queries, aggregation, data type converting, date formatting, and used CTE's. To present the findings in a user-friendly manner, I have designed interactive dashboards using Tableau.
+## [SQLCode.](https://github.com/Gaboner/sqlr/blob/main/Bakery%20sales%20EDA/bakery.sql)
 ### Dashboards
 [Revenue Dashboard](https://public.tableau.com/app/profile/gabriel.burlacu/viz/Revenuedistributionovertime/Dashboard1), [Transactions Dashboard](https://public.tableau.com/app/profile/gabriel.burlacu/viz/Transactionspermonthdayhour/Dashboard2), [Revenue Dashboard 2](https://public.tableau.com/app/profile/gabriel.burlacu/viz/Bakerysalesdistribution/Dashboard1), [Revenue Distribution](https://public.tableau.com/app/profile/gabriel.burlacu/viz/Revenuedistributionofproducts/Sheet3)
 
 
 
 ### 2. Pizza Restaurant EDA: 
-##### Goal: Understand sales distribution, identify seasonal trends, and analyze sales patterns.
+##### In this project, I was data analysis to discern the most and least profitable items within a pizza restaurant, pinpoint peak operational times, and unveil customer preferences, specifically focusing on favored pizza sizes and toppings. The insights gained from this analysis serve as a valuable resource for restaurant management to enhance the menu and improve overall staffing efficiency. Tools used include SQL and Tableau. I have performed aggregations, joins and used CTE tables. To present the findings in a user-friendly manner, I have designed interactive dashboards using Tableau.
+
 ## [SQLCode](https://github.com/Gaboner/sqlr/blob/main/pizza%20restaurant%20EDA/pizza2.sql) 
-#### Dashboards
+### Dashboards
 [Revenue Distribution](https://public.tableau.com/app/profile/gabriel.burlacu/viz/Revenue-orderdistribution/Dashboard1), [Most-least profitable items](https://public.tableau.com/app/profile/gabriel.burlacu/viz/Highest-lowestgeneratedrevenue/Dashboard1), [Order Distribution](https://public.tableau.com/app/profile/gabriel.burlacu/viz/MostSold_17053316562350/Dashboard1), [Other Visualizations](https://github.com/Gaboner/sqlr/tree/main/Pizza%20Restaurant%20Visualizations)
 
 
-### 3. Car Sales EDA: 
-#####  Goal: Understand data structure, generate descriptive statistics, visualize trends and patterns, and gain insights.
-## [SQLCode](https://github.com/Gaboner/sqlr/blob/main/Carsales%20EDA/carsalesEDA.sql) ---   [Visualizations](https://github.com/Gaboner/sqlr/tree/main/Car%20Sales%20visualizations)
-[Top manufacturers by sales](https://public.tableau.com/app/profile/gabriel.burlacu/viz/Top10vehiclemanufacturersbysalenumber/Dashboard1), [Highest depreciation rate vehicles](https://public.tableau.com/app/profile/gabriel.burlacu/viz/Modelswithhighestdepreciationrate/Dashboard1), [Lowest depreciation rate vehicles](https://public.tableau.com/app/profile/gabriel.burlacu/viz/Modelswithlowestdepreciationrate/Sheet1), [Vehicle model distribution](https://public.tableau.com/app/profile/gabriel.burlacu/viz/Modeldistribution/Dashboard1)
-
-
-### 4. IMDB data cleaning:
-##### Goal: Handling incomplete data, dealing with inconsistent data, and standardizing.
+### 3. IMDB data cleaning:
+##### In this project, I was addressing incomplete data, managing inconsistent data, and standardizing data. SQL was the primary tool used for the project.
 ## [SQLCode](https://github.com/Gaboner/sqlr/blob/main/IMDB%20data%20cleaning%20code/imdbclean.sql)
