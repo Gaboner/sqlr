@@ -1,5 +1,5 @@
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-# Gabriel's Data Analytics Projects
+# Gabriel's Data Analytics Portfolio
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ###### This repository houses a collection of SQL code utilized in diverse projects dedicated to practicing my SQL and Tableau skills.
 ###### Knowledge gained through YouTube tutorials, Coursera, DataCamp, [Stratascratch platform](https://www.stratascratch.com/)
