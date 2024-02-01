@@ -19,7 +19,7 @@
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### 2. Pizza Restaurant EDA: 
-##### In this project, I was data analysis to determine the most and least profitable items within a pizza restaurant, pinpoint peak operational times, and reveal customer preferences, specifically focusing on preferred pizza sizes and toppings. The insights gained from this analysis serve as a valuable resource for restaurant management to enhance the menu and improve overall staffing efficiency. Tools used include SQL and Tableau. I have performed aggregations, joins and used CTE tables. To present the findings in a user-friendly manner, I have designed interactive dashboards using Tableau.
+##### In this project, I performed data analysis to determine the most and least profitable items within a pizza restaurant, pinpoint peak operational times, and reveal customer preferences, specifically focusing on preferred pizza sizes and toppings. The insights gained from this analysis serve as a valuable resource for restaurant management to enhance the menu and improve overall staffing efficiency. Tools used include SQL and Tableau. I have performed aggregations, joins and used CTE tables. To present the findings in a user-friendly manner, I have designed interactive dashboards using Tableau.
 #### [SQLCode](https://github.com/Gaboner/sqlr/blob/main/pizza%20restaurant%20EDA/pizza2.sql) 
 ### Dashboards:
 [Revenue Distribution](https://public.tableau.com/app/profile/gabriel.burlacu/viz/Revenue-orderdistribution/Dashboard1), [Most-least profitable items](https://public.tableau.com/app/profile/gabriel.burlacu/viz/Highest-lowestgeneratedrevenue/Dashboard1), [Order Distribution](https://public.tableau.com/app/profile/gabriel.burlacu/viz/MostSold_17053316562350/Dashboard1), [Other Visualizations](https://github.com/Gaboner/sqlr/tree/main/Pizza%20Restaurant%20Visualizations)
@@ -32,5 +32,7 @@
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### 4. Nutritional content of food EDA:
-
+##### In this Jupyter Notebook project, I conducted a thorough data analysis to pinpoint food items with the highest protein and sugar content, examine the distribution of kcal, and explore relationships between values. To enhance clarity, I renamed columns and addressed null values by replacing them with the mean. The analysis provides valuable insights into nutritional aspects.
 #### [PythonCode](https://github.com/Gaboner/sqlr/blob/main/Nutritional%20food%20content%20.ipynb)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
