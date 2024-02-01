@@ -30,3 +30,7 @@
 ##### In this project, I was addressing incomplete data, managing inconsistent data, and standardizing data. SQL was the primary tool used for the project.
 #### [SQLCode](https://github.com/Gaboner/sqlr/blob/main/IMDB%20data%20cleaning%20code/imdbclean.sql)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### 4. Nutritional content of food EDA:
+
+#### [PythonCode](https://github.com/Gaboner/sqlr/blob/main/Nutritional%20food%20content%20.ipynb)
