@@ -9,7 +9,7 @@
 ## Table of contents
 ## Projects:
 
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 1. Supermarket sales EDA:
 ##### In this Jupyter Notebook project, I  conducted  data analysis to recognize sales trends and distribution patterns. I precisely identified states and cities generating the highest and lowest revenue, as well as specified the most frequently sold products. These insights were effectively represented through visualizations to enhance understanding and interpretation.
 #### [PythonCode](https://github.com/Gaboner/sqlr/blob/main/supermarket%20EDA.ipynb)
