@@ -13,7 +13,7 @@
 
 ### 1. Meat Production EDA:
 ##### In this Jupyter Notebook project, I conducted an analysis to explore worldwide meat production spanning over the past six decades.The primary objective of this analysis was to uncover  patterns and distributions of production across different regions and over time. Throughout the project, I identified both the most and least produced types of meat, examining variations among countries.  I have renamed columns, created data frames in order to aggregate columns, and plotted visualizations.
-#### [PythonCode](https://github.com/Gaboner/sqlr/blob/main/supermarket%20EDA.ipynb)
+#### [PythonCode](https://github.com/Gaboner/sqlr/blob/main/food.ipynb)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 2. Supermarket sales EDA:
 ##### In this Jupyter Notebook project, I  conducted  data analysis to recognize sales trends and distribution patterns. I precisely identified states and cities generating the highest and lowest revenue, as well as specified the most frequently sold products. These insights were effectively represented through visualizations to enhance understanding and interpretation.
