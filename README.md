@@ -6,6 +6,7 @@
 ###### Tools used: Python, SQL Server 2022, Tableau 2023
 ###### Certifications: [Google Data Analytics](https://www.coursera.org/account/accomplishments/professional-cert/K4RQQ5KG7VZR), [Datacamp Data Analyst Associate Certificate](https://www.datacamp.com/certificate/DAA0012636534715)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## Table of contents
 ## Projects:
 
