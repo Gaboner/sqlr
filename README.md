@@ -46,5 +46,6 @@
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-
+### 7. WebScraping and DataCleaning 
+#### In this project, I collected data on human evolution fossils from Wikipedia using web scraping techniques. I have cleaned it  Python, removed duplicates, renamed and deleted columns, performed string cleaning, and manually modified strings.
 
