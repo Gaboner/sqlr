@@ -28,9 +28,16 @@
 ##### In this Jupyter Notebook project, I conducted a thorough data analysis to pinpoint food items with the highest protein and sugar content, examine the distribution of kcal, and explore relationships between values. To enhance clarity, I renamed columns and addressed null values by replacing them with the mean. The analysis provides valuable insights into nutritional aspects.
 #### [PythonCode](https://github.com/Gaboner/sqlr/blob/main/Nutritional%20food%20content%20.ipynb)
 
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### 4. House sale prediction
+##### This IBM Data Analyst exam project involved data manipulation, including value replacement and column dropping, along with creating plots to visualize variable relationships and identifying outliers and correlations. I implemented linear regression, ridge regression, and polynomial regression, as well as pipeline objects, and calculated R^2.
+#### [PythonCode](https://github.com/Gaboner/sqlr/blob/main/house%20sales%20prediction%20coursera%20exam.ipynb)
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### 4. WebScraping and DataCleaning 
+### 5. WebScraping and DataCleaning 
 #### In this project, I collected data on human evolution fossils from Wikipedia using web scraping techniques. I have cleaned it  Python, removed duplicates, renamed and deleted columns, performed string cleaning, and manually modified strings.
 #### [ScrapingCodePython](https://github.com/Gaboner/sqlr/blob/main/scrape.ipynb)
 #### [CleaningCodePython](https://github.com/Gaboner/sqlr/blob/main/Human%20evo%20new.ipynb)
