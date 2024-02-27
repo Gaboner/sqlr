@@ -31,7 +31,7 @@
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### 4. House sale prediction
+### 4. House sale price prediction:
 ##### This IBM Data Analyst exam project involved data manipulation, including value replacement and column dropping, along with creating plots to visualize variable relationships and identifying outliers and correlations. I implemented linear regression, ridge regression, and polynomial regression, as well as pipeline objects, and calculated R^2.
 #### [PythonCode](https://github.com/Gaboner/sqlr/blob/main/house%20sales%20prediction%20coursera%20exam.ipynb)
 
