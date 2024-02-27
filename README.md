@@ -44,7 +44,7 @@
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### 5. Bakery sales EDA:
+### 6. Bakery sales EDA:
 ##### In this project, my focus centers on thorough data exploration and analysis with the primary objective of identifying the most profitable and top-selling items. Additionally, I aim to unveil revenue trends over distinct time intervals such as quarters, months, days, and hours, providing a broad understanding of sales distribution patterns. To gain deeper insights, I explore order frequency, aiming to pinpoint the peak operational periods within the shop. This analysis serves as a valuable resource for stakeholders, offering actionable insights to enhance overall shop efficiency through optimal stock and staff management strategies. Tools used include SQL and Tableau. I have performed table alteration queries, aggregation, data type converting, date formatting, and used CTE's. To present the findings in a user-friendly manner, I have designed interactive dashboards using Tableau.
 #### [SQLCode](https://github.com/Gaboner/sqlr/blob/main/Bakery%20sales%20EDA/bakery.sql)
 ### Dashboards:
@@ -53,7 +53,7 @@
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### 6. Pizza Restaurant EDA: 
+### 7. Pizza Restaurant EDA: 
 ##### In this project, I performed data analysis to determine the most and least profitable items within a pizza restaurant, pinpoint peak operational times, and reveal customer preferences, specifically focusing on preferred pizza sizes and toppings. The insights gained from this analysis serve as a valuable resource for restaurant management to enhance the menu and improve overall staffing efficiency. Tools used include SQL and Tableau. I have performed aggregations, joins and used CTE tables. To present the findings in a user-friendly manner, I have designed interactive dashboards using Tableau.
 #### [SQLCode](https://github.com/Gaboner/sqlr/blob/main/pizza%20restaurant%20EDA/pizza2.sql) 
 ### Dashboards:
@@ -61,7 +61,7 @@
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### 7. IMDB data cleaning:
+### 8. IMDB data cleaning:
 ##### In this project, I was addressing incomplete data, managing inconsistent data, and standardizing data. SQL was the primary tool used for the project.
 #### [SQLCode](https://github.com/Gaboner/sqlr/blob/main/IMDB%20data%20cleaning%20code/imdbclean.sql)
 
