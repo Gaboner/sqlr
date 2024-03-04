@@ -4,7 +4,7 @@
 ###### This repository houses a collection of SQL code utilized in diverse projects dedicated to practicing my SQL, Python and Tableau skills.
 ###### Knowledge gained through YouTube tutorials, Coursera, DataCamp, [Stratascratch platform](https://www.stratascratch.com/)
 ###### Tools used: Python, SQL Server 2022, Tableau 2023, IBM Cognos Analytics
-###### Certifications: [Google Data Analytics](https://www.coursera.org/account/accomplishments/professional-cert/K4RQQ5KG7VZR),   [Datacamp Data Analyst Associate Certificate](https://www.datacamp.com/certificate/DAA0012636534715),   [IBM Data Analyst](https://coursera.org/share/73f13bb3ea5f7b40e9921d7845eacdf3)
+###### Certifications: [Google Data Analytics](https://www.coursera.org/account/accomplishments/professional-cert/K4RQQ5KG7VZR),   [Datacamp Data Analyst Associate Certificate](https://www.datacamp.com/certificate/DAA0012636534715),   [IBM Data Analyst Professional](https://coursera.org/share/73f13bb3ea5f7b40e9921d7845eacdf3)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Table of contents
