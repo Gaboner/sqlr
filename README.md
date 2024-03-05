@@ -15,7 +15,7 @@
 ##### Powerpoint presentation covering popular programming languages, database languages, current trends, demographics, preferred platforms, and future skills.
 ##### Visualizations created in IBM Cognos Analytics and Tableau.
 ##### Presentation link: [here](https://github.com/Gaboner/sqlr/blob/main/The%20Future%20Syntax%20pdf.pdf), 
-##### Charts links: [Dashboard](https://github.com/Gaboner/sqlr/blob/main/Technology%20trend.pdf), [Dashboard2](https://github.com/Gaboner/sqlr/blob/main/Trends%20FutureSyntax.pdf)
+##### Chart links: [Dashboard](https://github.com/Gaboner/sqlr/blob/main/Technology%20trend.pdf), [Dashboard2](https://github.com/Gaboner/sqlr/blob/main/Trends%20FutureSyntax.pdf)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
