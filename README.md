@@ -14,7 +14,8 @@
 ### 0. The Future Syntax: Trends Redefining Programming Languages:
 ##### Powerpoint presentation covering popular programming languages, database languages, current trends, demographics, preferred platforms, and future skills.
 ##### Visualizations created in IBM Cognos Analytics and Tableau.
-##### Presentation can be downloaded [here](https://github.com/Gaboner/sqlr/blob/main/The%20Future%20Syntax.pptx), [Dashboard](https://github.com/Gaboner/sqlr/blob/main/Technology%20trend.pdf), [Dashboard2](https://github.com/Gaboner/sqlr/blob/main/Trends%20FutureSyntax.pdf)
+##### Presentation can be downloaded [here](https://github.com/Gaboner/sqlr/blob/main/The%20Future%20Syntax.pptx), 
+##### Charts links: [Dashboard](https://github.com/Gaboner/sqlr/blob/main/Technology%20trend.pdf), [Dashboard2](https://github.com/Gaboner/sqlr/blob/main/Trends%20FutureSyntax.pdf)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
