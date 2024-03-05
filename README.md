@@ -9,6 +9,11 @@
 
 ## Table of contents
 ## Projects:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### 0. The Future Syntax: Trends Redefining Programming Languages:
+##### Powerpoint presentation covering popular programming languages, database languages, current trends, demographics, preferred platforms, and future skills.
+##### Visualizations created in IBM Cognos Analytics and Tableau.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
