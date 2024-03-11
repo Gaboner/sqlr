@@ -9,7 +9,7 @@
 
 ## Table of contents
 ## Projects:
-### Visualizations: [Worldwide Homicide](https://github.com/Gaboner/sqlr/blob/main/Visualizations/Homicide.pdf), [Interactive dashboard](https://public.tableau.com/app/profile/gabriel.burlacu/viz/Homicide_17100919862130/Dashboard2?publish=yes) |  [Corruption and economic crime](https://github.com/Gaboner/sqlr/blob/main/Visualizations/Corruption%20and%20economic%20crime%20dash.pdf), [Interactive Dashboard](https://public.tableau.com/app/profile/gabriel.burlacu/viz/Corruptionandeconomiccrimelcolor/Dashboard3)
+#### Visualizations: [1. Worldwide Homicide](https://github.com/Gaboner/sqlr/blob/main/Visualizations/Homicide.pdf), [Interactive dashboard](https://public.tableau.com/app/profile/gabriel.burlacu/viz/Homicide_17100919862130/Dashboard2?publish=yes) |  [2. Corruption and economic crime](https://github.com/Gaboner/sqlr/blob/main/Visualizations/Corruption%20and%20economic%20crime%20dash.pdf), [Interactive Dashboard](https://public.tableau.com/app/profile/gabriel.burlacu/viz/Corruptionandeconomiccrimelcolor/Dashboard3) | [3. Cocaine Prevalence in population](https://github.com/Gaboner/sqlr/blob/main/Visualizations/Cocaine%20prevalence.pdf)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
