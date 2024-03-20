@@ -18,6 +18,11 @@
 ##### Visualizations created in IBM Cognos Analytics and Tableau.
 ##### Presentation link: [here](https://github.com/Gaboner/sqlr/blob/main/The%20Future%20Syntax%20pdf.pdf), 
 ##### Chart links: [Dashboard](https://github.com/Gaboner/sqlr/blob/main/Technology%20trend.pdf), [Dashboard2](https://github.com/Gaboner/sqlr/blob/main/Trends%20FutureSyntax.pdf)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### 0. EDA from scratch
+##### In this project I have created 4 tables in SQL, performed exploratory data analysis in Python, and created dashboards in Tableau.
+#### Useful links: [SQLcode](https://github.com/Gaboner/sqlr/tree/main/tourismc), [PythonCode](https://github.com/Gaboner/sqlr/blob/main/tourismc/tourism.ipynb), [Dashboard-FinancialReport](https://public.tableau.com/app/profile/gabriel.burlacu/viz/FinancialReport_17105319408900/Dashboard1), [Dashboard-StaffPerformance](https://public.tableau.com/app/profile/gabriel.burlacu/viz/StaffPerfromance/Dashboard2)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
