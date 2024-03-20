@@ -21,7 +21,7 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### 0. EDA from scratch
-##### In this project I have created 4 tables in SQL, performed exploratory data analysis in Python, and created dashboards in Tableau.
+##### In this project I have created 4 tables in SQL, performed exploratory data analysis in Python, and created dashboards in Tableau. All the data is fictional and a part of it was randomly generated using Faker library in Python.
 #### Useful links: [SQLcode](https://github.com/Gaboner/sqlr/tree/main/tourismc), [PythonCode](https://github.com/Gaboner/sqlr/blob/main/tourismc/tourism.ipynb), [Dashboard-FinancialReport](https://public.tableau.com/app/profile/gabriel.burlacu/viz/FinancialReport_17105319408900/Dashboard1), [Dashboard-StaffPerformance](https://public.tableau.com/app/profile/gabriel.burlacu/viz/StaffPerfromance/Dashboard2)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
